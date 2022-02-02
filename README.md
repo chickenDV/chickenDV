@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chickenDV.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development. 
-- 💞️ I’m looking to collaborate in Epic games and Bitcoin. 
+- 🌱 I’m currently learning Vue.js and JavaScript.  
 - 📫 How to reach me: You can send me an email in <mirandachavezjimmyalexander77@gmail.com>
 
 <!---
