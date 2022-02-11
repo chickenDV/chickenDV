@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chickenDV.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Vue.js and JavaScript.  
-- 📫 How to reach me: You can send me an email in <mirandachavezjimmyalexander77@gmail.com>
+- 📫 How to reach me: You can send me an email in <itakumardev@gmail.com>
 
 <!---
 chickenDV/chickenDV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
